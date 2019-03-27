@@ -29,5 +29,5 @@ function makeInt(a, b) {
 }
 
 function makeInt(a,b) {
-  return a;
+  return 0;
 }
