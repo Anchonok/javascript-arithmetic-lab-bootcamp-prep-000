@@ -28,6 +28,6 @@ function makeInt(a, b) {
   return a;
 }
 
-function makeInt(a, ) {
+function makeInt(a,b) {
   return a;
 }
